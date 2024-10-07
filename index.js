@@ -2,4 +2,4 @@ function holaMundo(){
     return "Hola Mundo";
 }
 
-MediaSourceHandle.exports = holaMundo;
+module.exports = holaMundo;
